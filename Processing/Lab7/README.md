@@ -1,5 +1,7 @@
 # PCM exercise 1
 
+## Audio Effects
+
 1. Display the song's MetaInfo
 
 2. Implement (using what you learned in theoretical classes) functions that:
