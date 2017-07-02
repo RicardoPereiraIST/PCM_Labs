@@ -1,5 +1,7 @@
 # PCM exercise 3
 
+## Video Filters
+
 1. Create a high-pass convolution filter.
 
 2. Create a low-pass convolution filter.
