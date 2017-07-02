@@ -1,5 +1,7 @@
 # PCM exercise 4
 
+## Video Segmentation
+
 1. Perform stroboscopic segmentation. Save the first frame of each video segment as an image file and create a text file where you display the time index of each segment's first frame.
 
 2. Implement transition detection with a parameterisable threshold. To do so, compute histograms and use differences between consecutive frames' histograms (histogram differences or squared histogram differences). Again, save the first frame of each video segment as an image file and create a text file where you display the time index of each segment's first frame.
