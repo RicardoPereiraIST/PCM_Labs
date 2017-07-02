@@ -1,5 +1,7 @@
 # PCM exercise 2
 
+## Bitmapped Image
+
 1. Create a function that converts the image into grayscale by calculating luminance (consider Y = 0.3R + 0.59G + 0.11B)
 
 2. Create a function that changes the image's contrast according to a given parameter
