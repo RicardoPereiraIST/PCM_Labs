@@ -1,4 +1,4 @@
-# PCM lab 1
+# PCM exercise 1
 
 1. Display the song's MetaInfo
 
