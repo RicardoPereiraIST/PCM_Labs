@@ -5,7 +5,7 @@
 Group composed by:
 [RicardoPereiraIST](https://github.com/RicardoPereiraIST)
 [diogoaj](https://github.com/diogoaj)
-[Marcelo]()
+[Marcelo](https://github.com/vicadinsx)
 
 Thanks to all colleagues that helped.
 
